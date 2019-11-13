@@ -1,4 +1,4 @@
-bbody {
+body {
   color: white;
   background-color: black;
   font-family: 'Sacramento', cursive;
@@ -6,5 +6,4 @@ bbody {
   margin-top: 5%;
   margin-left: 20%;
   margin-right: 20%;
-}
 }
